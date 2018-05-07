@@ -1,3 +1,8 @@
+//leetcode/algorithms/14
+//author	: yizhangzc
+//mail		: yizhangzc@gmail.com
+//data		: 2018/5/5
+
 class longest_common_prefix {
     public String longestCommonPrefix(String[] strs) {
         
